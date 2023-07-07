@@ -10,7 +10,7 @@ n/a
 To use this page, the user can click on one of the options in the header and read about how Horiseon can help improve their clients' social presence. The sidebar also lists how using Horiseon can benefit them. 
 
 ## Credits 
-n/a
+Code source from coding bootcamp on github. https://github.com/coding-boot-camp/urban-octo-telegram
 
 ## License
 Please refer to the LICENSE in the repo. 
